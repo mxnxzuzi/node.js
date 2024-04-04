@@ -1,6 +1,6 @@
 
 const { MongoClient, ServerApiVersion } = require('mongodb');
-const uri = "mongodb+srv://iaki111:1234@cluster0.nkguhe1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const uri = zzz
 const client = new MongoClient(uri);
 
 async function run() {
